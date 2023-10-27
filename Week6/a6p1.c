@@ -1,10 +1,4 @@
-/*
-a6p2
-Kinlo Ephriam Tangiri
-kephriamtangiri@constructor.university
 
-Swapping two variables
-*/
 
 //defining macro using #define with three parameters
 
